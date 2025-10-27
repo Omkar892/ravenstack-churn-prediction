@@ -39,4 +39,7 @@ The final model is saved as a single object, ensuring all preprocessing steps ar
 
 ```bash
 pip install pandas scikit-learn imbalanced-learn joblib
+Users can then install all dependencies with:
+pip install -r requirements.txt
+
 
